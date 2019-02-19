@@ -14,6 +14,8 @@ Run the index.html file and play a round of Memory. You need to click on the car
  
 ## How to play
 
+https://junks89.github.io/Nanodegree-Web-Frontend-Developer/
+
 By clicking on a card(black square), the card will flip and you will be able to see the hidden icon. You will need to find the related second card to get a match. After finding all of the 8 matches the game is finished. You can restart the game whenever you want by clicking on the restart icon on right side. Furthermore you will be able to see how many moves you made and how long you are playing on the top ob the playing board. After finishing the game a total score will appear, with your star rating and the consumed time. 
 
 ## Game dependencies
